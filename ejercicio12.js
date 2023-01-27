@@ -8,7 +8,7 @@ for(let i=0;i<nums.length;i++){
     }
     console.log("El numero mayor es"  +aux)*/
 
-    let nums=[2,2,4,5,7,9,2];
+    let nums=[2,2,4,52,7,9,2];
     let m=nums[0];
     for(let i=0; i<nums.length;i++){
         if(nums[i]>m){
